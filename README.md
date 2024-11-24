@@ -35,6 +35,10 @@ Hostinger, 'JSON Cheat Sheet', Three, Two, Online, (Website, 10 November 2024) <
 Week 2 Code, UTS Lecture 
 
 
+
+
+
+
 Word Cloud Creation for Summary page - OpenAI, ChatGPT, Novemnber 2024 <https://chat.openai.com/> 
 
 Summary of Chat GBT prompts/reference for world cloud creation below: 
@@ -54,6 +58,11 @@ Result: Used the Date object for filtering journal entries by date range.
 Scaling Font Sizes
 Prompt: "How do I make frequent words larger?"
 Result: Code to calculate font sizes based on word frequency.
+
+
+
+
+
 
 Displaying journal entry for a specific date - OpenAI, ChatGPT, Novemnber 2024 <https://chat.openai.com/> 
 
