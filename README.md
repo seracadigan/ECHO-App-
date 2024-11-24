@@ -2,11 +2,11 @@ ECHO App
 
 App Files 
 
-Templates - 'My Journal', 'Summary' & 'Past Entries' pages: [Templates.zip](https://github.com/user-attachments/files/17879171/Templates.copy.zip)
+Templates Previous Version - 'My Journal', 'Summary' & 'Past Entries' pages: [Templates.zip](https://github.com/user-attachments/files/17879171/Templates.copy.zip)
 
+Templates Polished/FINAL Version - 'My Journal', 'Summary' & 'Past Entries' pages:[FINAL ECHO templates.zip](https://github.com/user-attachments/files/17889897/FINAL.ECHO.templates.zip)
 
 App file: [Style CSS copy.zip][app copy.py.zip](https://github.com/user-attachments/files/17879175/app.copy.py.zip)
-
 
 Style CSS file: (https://github.com/user-attachments/files/17879173/Style.CSS.copy.zip)
 
@@ -27,6 +27,12 @@ Date input HTML - MDN Web Docs, '<input type="date">', <input> (Website, 15 Nove
 Date input HTML - Digital Techsol, HTML Input Typre Date HTML Date Picker Input Field DatePicker HTML CSS, YouTube (18 November 2021) <https://www.youtube.com/watch?v=85hiPnJcy-s> 
 Button hover - W3 Schools, 'Basic button styling', CSS Buttons, (Website, 15 November 2024) <https://www.w3schools.com/css/css3_buttons.asp> 
 Nav bar - Bro Code (22 September 2023), How to create a CSS naivgaiton bar in 6 minutes!, YouTube <https://www.youtube.com/watch?v=f3uCSh6LIY0>
+Mostlypython Substak, Beginners Python Cheat Sheet, PDF Document <https://mostlypython.substack.com/> 
+Kuniavsky, M. (2008). User experience design for ubiquitous computing Download User experience design for ubiquitous computing. Interactions, 15(6), 20–22. https://doi.org/10.1145/1409040.1409045
+Week 6 Information As Material, UTS Lecture 
+Week 7 Data, UTS Lecture
+Hostinger, 'JSON Cheat Sheet', Three, Two, Online, (Website, 10 November 2024) <https://www.hostinger.com/?utm_source=Hostinger+Tutorials+Email+EN&utm_medium=Mailchimp&utm_campaign=JSON+Cheat+Sheet> 
+Week 2 Code, UTS Lecture 
 
 
 Word Cloud Creation for Summary page - OpenAI, ChatGPT, Novemnber 2024 <https://chat.openai.com/> 
